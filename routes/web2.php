@@ -1,0 +1,1 @@
+Route:get('mahasiswa2/{pr}')
